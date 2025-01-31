@@ -1,0 +1,12 @@
+{
+  "data": {
+    "id": "TBoxiLo5"
+  },
+  "datacontenttype": "application/json",
+  "id": "01ARZ3NDEKTSV4RRFFQ69G5FAV",
+  "source": "/sauce/public",
+  "specversion": "1.0",
+  "subject": "ThingCreated",
+  "time": "2022-05-14T00:01:00Z",
+  "type": "dev.sauce.thing.created"
+}
