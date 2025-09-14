@@ -1,5 +1,7 @@
 # iceberg
 
+A set of SQL queries for getting started with Apache Iceberg tables on S3 with Athena.
+
 ## Athena
 
 Run the queries in this order:
