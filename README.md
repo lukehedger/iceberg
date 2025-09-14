@@ -1,4 +1,4 @@
-# iceberg
+# Iceberg on S3 🧊
 
 A set of SQL queries for getting started with Apache Iceberg tables on S3 with Athena.
 
